@@ -1,0 +1,14 @@
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\bin\Debug\net8.0\QueuesUsingArray.exe
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\bin\Debug\net8.0\QueuesUsingArray.deps.json
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\bin\Debug\net8.0\QueuesUsingArray.runtimeconfig.json
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\bin\Debug\net8.0\QueuesUsingArray.dll
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\bin\Debug\net8.0\QueuesUsingArray.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\obj\Debug\net8.0\QueuesUsingArray.GeneratedMSBuildEditorConfig.editorconfig
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\obj\Debug\net8.0\QueuesUsingArray.AssemblyInfoInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\obj\Debug\net8.0\QueuesUsingArray.AssemblyInfo.cs
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\obj\Debug\net8.0\QueuesUsingArray.csproj.CoreCompileInputs.cache
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\obj\Debug\net8.0\QueuesUsingArray.dll
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\obj\Debug\net8.0\refint\QueuesUsingArray.dll
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\obj\Debug\net8.0\QueuesUsingArray.pdb
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\obj\Debug\net8.0\QueuesUsingArray.genruntimeconfig.cache
+e:\DOC\Data_structure-algorithms\code_snippet\QueuesUsingArray\obj\Debug\net8.0\ref\QueuesUsingArray.dll
